@@ -20,7 +20,7 @@ body {
     left: 0;
     width: 100%;
     z-index: 9999;    
-    background-color: darkred;
+    background-color: rgb(18, 11, 151);
     box-shadow: 2px 2px 2px gray;
 }
 
@@ -42,7 +42,7 @@ strong {
 img {
     border-style: solid;
     border-width: 5px;
-    border-color: maroon;
+    border-color: rgb(0, 100, 128);
     
     box-shadow: 5px 5px 5px 2px rgba(41, 35, 31, 1);
     
@@ -51,7 +51,7 @@ img {
 
 .logo {
     box-shadow: none;
-    border-color: darkred;
+    border-color: rgb(14, 0, 139);
 }
 
 section {
